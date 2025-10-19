@@ -32,9 +32,10 @@ A **custom Arabic shell** made to bring a native, localized experience to the te
 | 💻 OS / Environment | 🧰 Tools |
 |---------------------|-----------|
 | 🐧 **CachyOS** (Arch-based) | `Zsh` with **OhMyZsh** |
+| 🐧 **Raspberry Pi Server/Nas** (Debian-based) | NAS with  `samba` | Self-hosting my discord bot Boolean |
 | 🖥️ **Code OSS** | `git`, `KVM/QEMU` |
 | 🤖 LLM Dev | `Ollama (phi3:mini)` |
-| 💡 Others | **Neovim (LazyVim)**, **Tmux**, **Docker**, **SSH**, **Fish**, **Curl** |
+| 💡 Others | **Neovim (LazyVim)**, **Tmux**, **Docker**, **SSH**, **Bash**, **Curl**, **Wget**, **FreeBSD**|
 
 ---
 
