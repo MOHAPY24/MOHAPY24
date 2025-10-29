@@ -11,7 +11,7 @@ I’ve been coding for **5+ years**, and I’m all about creating efficient, min
 - 🐍 **Python** — 5+ years
 - 🐚 **Bash/Zsh/sh** — 3 years (currently using **Zsh** with **OhMyZsh**)
 - 🌐 **HTML & CSS** — 2 years
-- 🔨 **Go & Java** — learning (basic Java knowledge, Go in progress)
+- 🔨 **Go, Java & Nim** — learning (basic Java knowledge, Go in progress, Nim well enough)
 
 I enjoy working in **terminal environments** and focus a lot on making the user experience efficient and fun.
 
@@ -31,7 +31,7 @@ A **custom Arabic shell** made to bring a native, localized experience to the te
 
 | 💻 OS / Environment | 🧰 Tools |
 |---------------------|-----------|
-| 🐧 **CachyOS** (Arch-based) | `Zsh` with **OhMyZsh** |
+| 🐧 **Ubuntu & NixOS** | `Zsh` with **OhMyZsh** |
 | 🐧 **Raspberry Pi Server/Nas** (Debian-based) | NAS with  `samba`, Self-hosting my discord bot Boolean |
 | 🖥️ **Code OSS** | `git`, `KVM/QEMU` |
 | 🤖 LLM Dev | `Ollama (phi3:mini)` |
