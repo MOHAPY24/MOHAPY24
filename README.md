@@ -65,7 +65,7 @@ An **advanced Ollama frontend** for deep research and seamless multi-model colla
 
 Feel free to check out my projects or reach out if you want to collaborate, learn something new, or just chat!
 
-- GitHub: [@MOHAPY24](https://github.com/MOHAPY24)
+- Tiktok: `@egyptiantux`
 - Email: `momoislockedout@gmail.com`
 
 ---
