@@ -19,11 +19,23 @@ I enjoy working in **terminal environments** and focus a lot on making the user 
 
 ## 🧪 Featured Projects
 
+
+
 ### 🐝 [Honeycomb](https://github.com/MOHAPY24/Honeycomb)
 An **esoteric programming language** I built. It’s strange, experimental, and definitely not for the faint of heart. Perfect for anyone who loves to think outside the box.
 
 ### 🕋 [Tabsh](https://github.com/MOHAPY24/tabsh)
-A **custom Arabic shell** made to bring a native, localized experience to the terminal. Built entirely with **Bash** and a love for diverse languages.
+A **custom Arabic shell** made to bring a native, localized experience to the terminal. Built entirely with **Bash** and **Python** and a love for diverse languages.
+
+### 🏙️ [Downtown](https://github.com/MOHAPY24/downtown)
+
+A **Python framework** that transforms Markdown files into fully functional websites and web apps. It’s lightweight, intuitive, and ideal for developers who prefer content-driven workflows.
+
+---
+
+### 🌯 [Shawarma](https://github.com/MOHAPY24/shawarma)
+
+An **advanced Ollama frontend** for deep research and seamless multi-model collaboration. It lets up to four AI models work together—each with unique strengths—to craft rich, comprehensive answers. Built with **Python**, open-source, and cross-platform, it’s a powerful tool for anyone managing diverse AI systems.
 
 ---
 
