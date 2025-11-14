@@ -43,11 +43,11 @@ An **advanced Ollama frontend** for deep research and seamless multi-model colla
 
 | 💻 OS / Environment | 🧰 Tools |
 |---------------------|-----------|
-| 🐧 **Ubuntu & NixOS** | `Zsh` with **OhMyZsh** |
-| 🐧 **Raspberry Pi Server/Nas** (Debian-based) | NAS with  `samba`, Self-hosting my discord bot Boolean |
+| 🐧 **Arch & NixOS** | `Zsh` with **OhMyZsh** |
+| 🐧 **Laptop Homelab** (Debian-based) | NAS with  `samba`, Self-hosting my discord bot Boolean |
 | 🖥️ **Code OSS** | `git`, `KVM/QEMU` |
 | 🤖 LLM Dev | `Ollama (phi3:mini)` |
-| 💡 Others | **Neovim (LazyVim)**, **Tmux**, **Docker**, **SSH**, **Bash**, **Curl**, **Wget**, **FreeBSD**|
+| 💡 Others | **Neovim (AstroNVIM)**, **Tmux**, **Docker**, **SSH**, **Bash**, **Curl**, **Wget**, **FreeBSD**|
 
 ---
 
