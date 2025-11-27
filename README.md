@@ -9,9 +9,10 @@
 I’ve been coding for **5+ years**, and I’m all about creating efficient, minimal tools that make your workflow smoother. I specialize in **shell scripting** and love working on **Linux-related projects**. Here’s a breakdown of what I’ve been working on:
 
 - 🐍 **Python** — 5+ years
+- 🔨 **C** - 2 Months
 - 🐚 **Bash/Zsh/sh** — 3 years (currently using **Zsh** with **OhMyZsh**)
 - 🌐 **HTML & CSS** — 2 years
-- 🔨 **Go, Java & Nim** — learning (basic Java knowledge, Go in progress, Nim well enough)
+- 🔨 **Java & Nim** — learning (basic Java knowledge, Nim well enough)
 
 I enjoy working in **terminal environments** and focus a lot on making the user experience efficient and fun.
 
