@@ -1,4 +1,4 @@
-<h2 align="center">Hola, Hello, Bonjour, ٱلسَّلَامُ عَلَيْكُم</h2>
+<h2 align="center">Hola, Hello, Bonjour, ٱلسَّلَامُ عَلَيْكُم, Привет, Hallo, Konnichiwa</h2>
 <h2 align="center">My name is Mohammed Moustafa</h2>
 <h4 align="center">Or more known as momo</h4>
 
