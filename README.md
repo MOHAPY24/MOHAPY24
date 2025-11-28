@@ -1,2 +1,2 @@
-<h2>                                                        Hola, Hello, Bonjour, ٱلسَّلَامُ عَلَيْكُم                            </h2>
+<h2 align="center">                                                        Hola, Hello, Bonjour, ٱلسَّلَامُ عَلَيْكُم                            </h2>
 
