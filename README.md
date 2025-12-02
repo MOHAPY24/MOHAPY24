@@ -11,7 +11,8 @@ I enjoy:
 - Building **automation workflows**  
 - Experimenting with **Linux distros** (Mint, Debian, NixOS, etc.)
 - Writing code in **C**, **Nim**, **Python**, and more  
-- Tweaking configs in **Neovim**, **Zsh**, and other tools  
+- Tweaking configs in **Neovim**, **Zsh**, and other tools
+- Language Development
 - Playing with **Docker**, **Raspberry Pi**, microcontrollers, and virtualized systems  
 - Learning something new every single day  
 
